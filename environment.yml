@@ -1,0 +1,12 @@
+name: europe1k_analysis
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python>=3.6
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipython
+  - notebook
